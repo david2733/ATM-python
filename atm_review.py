@@ -1,3 +1,6 @@
+#############################################
+#THIS IS THE NORMAL VERSION FOR LINUX
+
 # atm algorithm by David
 
 import os
